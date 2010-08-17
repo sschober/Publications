@@ -6,7 +6,7 @@ bibtex entries.
 ## Requirements
 
 - texlive (or equivalent)
-- bibtex2html [http://www.lri.fr/~filliatr/bibtex2html/]
+- [bibtex2html](http://www.lri.fr/~filliatr/bibtex2html/)
 
 ## Usage
 
